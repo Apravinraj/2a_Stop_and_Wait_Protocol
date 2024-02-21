@@ -37,9 +37,13 @@ while True:
  s.send("Acknowledgement Recived".encode())
 ```
 ## OUTPUT
+
 CLIENT
+
 ![306664559-5e7536db-fd1a-4b3f-9358-211a771e8100](https://github.com/Apravinraj/2a_Stop_and_Wait_Protocol/assets/118707879/e1fc3216-2df0-49a9-abe3-5af541115fdf)
+
 SERVER
+
 ![306664797-08351b08-bc67-42a0-975a-88d1f145a355](https://github.com/Apravinraj/2a_Stop_and_Wait_Protocol/assets/118707879/32dafd83-730e-4664-8e1a-cc03f9d8d2b5)
 
 ## RESULT
